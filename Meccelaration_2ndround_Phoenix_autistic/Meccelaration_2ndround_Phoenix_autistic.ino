@@ -1,10 +1,7 @@
 //things to change each bot: motorpins, kp, kd, maxSpeed, rotationSpeed,contiWhite;
 #define sensorNum 8
 #define maxSpeed 255
-/*
-بسم الله الرحمن الرحيم
-بسم الله توكلت علي الله ولا حول ولا قوة الا بالله العلي العظيم
-*/
+
 
 #define rotationSpeed 120
 
